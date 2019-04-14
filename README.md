@@ -1,3 +1,3 @@
-# STC
+# Self Taught Clustering (STC)
 
-Implementation of Self Taught Clustering (Dai et al. "Self-taught clustering.", ICML 2008)
+Matlab implementation of the paper "Self Taught Clustering" (Dai et al. "Self-taught clustering.", ICML 2008)
